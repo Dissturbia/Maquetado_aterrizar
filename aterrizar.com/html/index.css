@@ -1,0 +1,36 @@
+body {
+	background-image: url("/orig_523599.jpg");
+	background-repeat: no-repeat;
+    background-position: left center;
+
+}
+
+
+
+.main-container {
+	background-color:grey;
+	width: 500px;
+	height: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	opacity: 0.8;
+}
+
+
+
+h1 {
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+	color: black;
+
+}
+
+
+form {
+	align-items: center;
+	justify-content: center;
+	display: grid;
+}
+
+
+
